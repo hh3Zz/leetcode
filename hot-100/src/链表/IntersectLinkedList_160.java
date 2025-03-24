@@ -14,7 +14,7 @@ package 链表;
  * 当 pA 走到 链表A 的尾部时，将 pA 指向链表B 的头结点，当 pB 走到 链表B 的尾部时，将 pB 指向链表A 的头结点。
  * 当 pA 和 pB 相遇时，两个指针走过的节点书数相同，停止遍历，返回 pA 或 pB 。
  */
-public class IntersectLinkList_160 {
+public class IntersectLinkedList_160 {
 
     public class ListNode {
         int val;
