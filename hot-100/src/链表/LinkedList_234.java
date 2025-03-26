@@ -12,7 +12,7 @@ package 链表;
  * 1. 使用快慢指针，快指针一次走两步，慢指针一次走两步。快指针到达链表末尾时，慢指针刚好指向链表的中间节点。
  * 2. 将链表的后半部分反转，然后比较前半部分和后半部分是否相同。
  */
-public class ListedList_234 {
+public class LinkedList_234 {
 
     public class ListNode {
         int val;
